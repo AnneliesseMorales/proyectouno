@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../assets/styles/navComponent.css'
 
 const NavComponent =()=>{
     return (
@@ -19,3 +19,4 @@ const NavComponent =()=>{
         </div>
     )
 }
+export default NavComponent;
