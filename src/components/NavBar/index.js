@@ -28,6 +28,9 @@ const Navbar = () => {
                 <NavLink to="/contact">
                     Contact
                 </NavLink>
+                <NavLink to="/Products">
+                    Products
+                </NavLink>
                 <NavLink to="/signin">
                     Sign In
                 </NavLink>
